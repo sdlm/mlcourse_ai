@@ -1,0 +1,20 @@
+ 1. 20
+ 2. 6734860
+ 3. MSP
+ 4. MQ
+ 5. 8 am
+ 6. 2 am
+ 7. 3 am
+ 8. 8 am
+ 9. 5-6 am
+10. 8 am
+11. EV
+12. Weather conditions
+13. San-Francisco – Los-Angeles (SFO-LAX)
+14. 14696
+15. from 0 am to 4 am
+16. working days AND less flights during winter
+17. 1 AND 3
+18. 4
+19. AA
+20. AQ
